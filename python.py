@@ -60,4 +60,3 @@ elif(score>=60):
 elif(score<=50):
     print("F GRADE")
 
-print("Hi This is an example program for verification of github.")
